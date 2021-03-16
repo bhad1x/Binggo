@@ -1,0 +1,216 @@
+[ POSSIBLE BLIND ] http://abcissa-websites.co.uk/download/download_file.php?fileSource=buds.pdf
+[ POSSIBLE BLIND ] http://www.britishorienteering.org.uk/index.php?pg=80
+[ POSSIBLE BLIND ] http://apeksmarine.co.uk/products/product_cats.asp?Lan=ENG&Category=Secondary
+[ POSSIBLE BLIND ] http://www.tanat.co.uk/express-timetable.php?id=76
+[ SQL VULN FOUND ] http://www.timesystem.co.uk/index.php?page=%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.timesystem.co.uk/index.php?page=
+[ POSSIBLE BLIND ] http://www.c3bmw.co.uk/StockItem.asp?productID=1679
+[ SQL VULN FOUND ] http://www.timesystem.co.uk/index.php?page=18%27
+      REGEX => error in your SQL syntax
+[ SQL VULN FOUND ] http://www.camberleyathletics.org.uk/index.php?pg=3%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.tradesafeproducts.co.uk/products.php?pg=2
+[ POSSIBLE BLIND ] http://www.treblerfabrications.co.uk/product.asp?product=Hydrostatic
+[ POSSIBLE BLIND ] http://core.materials.ac.uk/search/detail.php?id=3227
+[ POSSIBLE BLIND ] http://www.tyndale.cam.ac.uk/index.php?page=cookie-policy
+[ POSSIBLE BLIND ] http://courses.wlv.ac.uk/course.asp?code=AT010P31UVD
+[ POSSIBLE BLIND ] http://www.tyndale.cam.ac.uk/index.php?page=david-instone-brewer
+[ POSSIBLE BLIND ] http://www.ceenorm.co.uk/section.php?xSec=15&xPage=1
+[ POSSIBLE BLIND ] http://www.ucl.ac.uk/slade/know/2700
+[ POSSIBLE BLIND ] http://daipratt.co.uk/importing-large-files-into-mysql-with-phpmyadmin/
+[ POSSIBLE BLIND ] http://www.veterinary-instrumentation.co.uk/pages.php?pageid=19
+[ POSSIBLE BLIND ] http://daveangell.co.uk/index.php?pg=Minic
+[ POSSIBLE BLIND ] http://www.chalkyhill.co.uk/index.php?page_id=2665
+[ POSSIBLE BLIND ] http://dera.ioe.ac.uk/6284/1/fileDownload.asp?file=MAPPA+guidance+for+YOTs.pdf
+[ SQL VULN FOUND ] http://www.warrenlodgehotel.co.uk/index.php?page=15%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.warrenlodgehotel.co.uk/index.php?page=15
+[ SQL VULN FOUND ] http://www.warrenlodgehotel.co.uk/index.php?page=16%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.warrenlodgehotel.co.uk/index.php?page=16
+[ SQL VULN FOUND ] http://www.warrenlodgehotel.co.uk/index.php?page=4%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.warrenlodgehotel.co.uk/index.php?page=4
+[ POSSIBLE BLIND ] http://downloads.motorola-radio-support.co.uk/index.php?dir=Archive/Motorola-Software/&file=US
+[ POSSIBLE BLIND ] http://www.wharfedale.co.uk/product.php?pid=75
+[ SQL VULN FOUND ] http://falkirklocalhistorysociety.co.uk/home/index.php?id=107%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.wharfedale.co.uk/product.php?pid=77
+[ POSSIBLE BLIND ] http://garagedoorcity.co.uk/index.php?pageID=1&type=doors&p0=detail&id=13
+[ POSSIBLE BLIND ] http://groveproducts.co.uk/recherche.asp
+[ POSSIBLE BLIND ] http://www.cleybirdclub.org.uk/cbc/records_overview.asp?pageid=13
+[ POSSIBLE BLIND ] http://www.williamsontunnels.co.uk/view.php?page=information4
+[ POSSIBLE BLIND ] http://www.wordlibrary.co.uk/article.php?id=170
+[ POSSIBLE BLIND ] http://iris2.rail.co.uk/tiger/render.asp?file=3041FE.xml
+[ POSSIBLE BLIND ] http://iris2.rail.co.uk/tiger/render.asp?file=3042AC.xml
+[ POSSIBLE BLIND ] http://iris2.rail.co.uk/tiger/render.asp?file=30652A.xml
+[ POSSIBLE BLIND ] http://www.xcarlink.co.uk/home.php?cat=2
+[ POSSIBLE BLIND ] http://www.copplestonecastings.co.uk/list.php?cat=6&page=1
+[ POSSIBLE BLIND ] http://www.xcarlink.co.uk/product.php?productid=58
+[ POSSIBLE BLIND ] http://kamazoy.uk/helpspot/index.php?pg=kb.page&id=100
+[ POSSIBLE BLIND ] http://kamazoy.uk/helpspot/index.php?pg=kb.page&id=166
+[ POSSIBLE BLIND ] http://www.crd.york.ac.uk/crdweb/ShowRecord.asp?ID=12007001303
+[ POSSIBLE BLIND ] http://library.dmu.ac.uk/Support/Heat/index.php?page=4
+[ POSSIBLE BLIND ] http://www.cumbria.gov.uk/eLibrary/view.asp?ID=417
+[ POSSIBLE BLIND ] http://myolivebranch.co.uk/cookie-policy/
+[ POSSIBLE BLIND ] http://www.delphibasics.co.uk/Article.asp?Name=Files
+[ POSSIBLE BLIND ] http://nebpt.co.uk/index.asp?pg=10
+[ POSSIBLE BLIND ] http://quad-hifi.co.uk/product-detail.php?pid=11
+[ POSSIBLE BLIND ] http://quad-hifi.co.uk/product-detail.php?pid=20
+[ POSSIBLE BLIND ] http://quad-hifi.co.uk/product-detail.php?pid=22
+[ POSSIBLE BLIND ] http://quad-hifi.co.uk/product-detail.php?pid=35
+[ POSSIBLE BLIND ] http://quad-hifi.co.uk/product-detail.php?pid=9
+[ POSSIBLE BLIND ] http://www.dft.gov.uk/vca/sharefile.asp
+[ SQL VULN FOUND ] https://cookiepedia.co.uk/cookies/ASP.NET_SessionId%27
+      REGEX => ASP.NET_SessionId
+[ SQL VULN FOUND ] http://www.forestgarden.co.uk/shop_product_recommended.asp?product=Ultima%27
+      REGEX => BOF or EOF
+[ SQL VULN FOUND ] http://www.forestgarden.co.uk/shop_product_recommended.asp?product=Victorian%27
+      REGEX => BOF or EOF
+[ SQL VULN FOUND ] http://www.fotostation.co.uk/pages.asp?PID=mail_order_forms%27
+      REGEX => Microsoft Access Driver
+[ SQL VULN FOUND ] http://www.fotostation.co.uk/pages.asp?PID=mail_order_forms%27
+      REGEX => OLE DB Provider for ODBC
+[ SQL VULN FOUND ] http://www.fotostation.co.uk/pages.asp?PID=mail_order_forms%27
+      REGEX => ODBC Driver
+[ SQL VULN FOUND ] http://www.fotostation.co.uk/pages.asp?PID=mail_order_forms%27
+      REGEX => ODBC Microsoft Access
+[ POSSIBLE BLIND ] http://www.gallowaysmokehouse.co.uk/index.asp?PageID=11
+[ POSSIBLE BLIND ] http://www.library.dmu.ac.uk/Support/Heat/index.php?page=486
+[ POSSIBLE BLIND ] http://www.little-places.co.uk/hotel.php?ID=9
+[ POSSIBLE BLIND ] http://www.livingstonfc.co.uk/match/match_tickets.php
+[ POSSIBLE BLIND ] http://www.logomanager.co.uk/php/cat.php?cat=cables
+[ POSSIBLE BLIND ] http://www.logomanager.co.uk/php/cat.php?cat=infrared
+[ POSSIBLE BLIND ] http://www.logomanager.co.uk/php/cat.php?cat=usb
+[ POSSIBLE BLIND ] http://www.logomanager.co.uk/php/products.php?id=51
+[ POSSIBLE BLIND ] http://www.mailboxesgb.co.uk/products.php?pg=7
+[ SQL VULN FOUND ] http://www.meonvalleybowls.org.uk/page.php?pageid=7%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://www.meonvalleybowls.org.uk/page.php?pageid=7
+[ POSSIBLE BLIND ] http://www.nebpt.co.uk/index.asp?page=36
+[ POSSIBLE BLIND ] http://www.nebpt.co.uk/index.asp?page=6
+[ POSSIBLE BLIND ] http://www.nebpt.co.uk/index.asp?pg=16
+[ POSSIBLE BLIND ] http://www.nebpt.co.uk/index.asp?pg=61
+[ POSSIBLE BLIND ] http://www.nebpt.co.uk/index.asp?pg=64
+[ POSSIBLE BLIND ] http://www.ngca.co.uk/home/default.asp?id=141
+[ POSSIBLE BLIND ] http://www.opera.co.uk/page.php?pid=124
+[ POSSIBLE BLIND ] http://www.pocketgamer.co.uk/r/iPhone/Golfing+Around/review.asp?c=78533
+[ POSSIBLE BLIND ] http://www.pocketgamer.co.uk/r/Switch/Monster+Hunter+Generations+Ultimate/review.asp?c=78537
+[ POSSIBLE BLIND ] http://www.promap.co.uk/pricing.php
+[ POSSIBLE BLIND ] http://www.quad-hifi.co.uk/product-detail.php?pid=31
+[ POSSIBLE BLIND ] http://www.quad-hifi.co.uk/product-detail.php?pid=41
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/christian_christmas_crafts.asp?pg=2
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/easter_crafts.asp?pg=2
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/religious_stickers.asp?pg=3
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/special_offers.asp?pg=2
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/sunday_school_crafts.asp?pg=3
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/sunday_school_gifts.asp?pg=4
+[ POSSIBLE BLIND ] http://www.religiouscrafts.co.uk/sunday_school_gifts.asp?pg=5
+[ POSSIBLE BLIND ] http://www.richmondsgroundcare.co.uk/index.php/site/contactus
+[ POSSIBLE BLIND ] http://www.safl.co.uk/index.php?id=home
+[ POSSIBLE BLIND ] http://dislaik-tniad.mil.id/index.php/page/detail/sejarah-organisasi
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Supplied argument is not a valid PostgreSQL result
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => PostgreSQL query failed: ERROR: parser: parse error
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => supplied argument is not a valid MySQL result resource
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => SQL command not properly ended
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => ASP.NET_SessionId
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => A syntax error has occurred
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Unclosed quotation mark
+[ SQL VULN FOUND ] http://138.197.130.231/login/:2082/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Incorrect syntax near
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: pg_connect()
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Supplied argument is not a valid PostgreSQL result
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => supplied argument is not a valid MySQL result resource
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => error in your SQL syntax
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => unexpected end of SQL command
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => SQL command not properly ended
+[ SQL VULN FOUND ] http://175.96.15.133/login/fcgi-bin/axis-cgi/zentrack/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => ORA-00921: unexpected end of SQL command
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => PostgreSQL query failed: ERROR: parser: parse error
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => SQL command not properly ended
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => An illegal character has been found in the statement
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => A syntax error has occurred
+[ SQL VULN FOUND ] http://175.96.49.169/login_out/KS_Data/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Incorrect syntax near
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => PostgreSQL query failed: ERROR: parser: parse error
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => SQL command not properly ended
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => An illegal character has been found in the statement
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => A syntax error has occurred
+[ SQL VULN FOUND ] http://43.255.88.171/loginerror/.r{}_vti_cnf/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Incorrect syntax near
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => PostgreSQL query failed: ERROR: parser: parse error
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => SQL command not properly ended
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => An illegal character has been found in the statement
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => A syntax error has occurred
+[ SQL VULN FOUND ] http://54.36.33.70/iisadmpwd/administrator/components/com_remository/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Incorrect syntax near
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: mysql_query()
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Warning: pg_connect()
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => PostgreSQL query failed: ERROR: parser: parse error
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => supplied argument is not a valid MySQL result resource
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Invision Power Board Database Error
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => unexpected end of SQL command
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => A syntax error has occurred
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => Incorrect syntax near
+[ SQL VULN FOUND ] http://61.67.24.180/login/:2082/sources/components/com_simpleboard/image_upload.php?sbp=%27
+      REGEX => ORA-00921: unexpected end of SQL command
+[ POSSIBLE BLIND ] http://hackdefencesecurity.blogspot.com/2013/01/list-of-dorks-for-rfi.html
+[ POSSIBLE BLIND ] https://gnulinuxserver.wordpress.com/2013/10/12/strings-encontrando-php-injection/
+[ POSSIBLE BLIND ] https://hacksearch.wordpress.com/2017/03/16/sql-dork-2017-2016-sql-injection-carding-dorks-15000000/
+[ POSSIBLE BLIND ] https://manyakplatform.catsboard.com/t113-rfi-sql-acklar
+[ POSSIBLE BLIND ] https://rajakadal.forumakers.com/t399p10-behind-google-dork
+[ POSSIBLE BLIND ] https://www.turkhackteam.org/guncel-aciklar/996092-sql-acikli-sitelerle-lfi-hack-dork.html
+[ SQL VULN FOUND ] http://ddn-news.com/index.php/index.php?newsarticle=3123%27
+      REGEX => error in your SQL syntax
+[ POSSIBLE BLIND ] http://fae.uprrp.edu/kmuo/insert-data-in-ajax-with-codeigniter.html
+[ POSSIBLE BLIND ] https://cloud.google.com/datastore/docs/reference/gql_reference
+[ POSSIBLE BLIND ] https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+[ POSSIBLE BLIND ] https://developers.google.com/recaptcha/old/docs/php
+[ POSSIBLE BLIND ] https://developer.wordpress.org/reference/functions/get_template_part/
+[ POSSIBLE BLIND ] https://kinsta.com/knowledgebase/how-to-upload-html-file-to-wordpress/
+[ POSSIBLE BLIND ] https://netbeans.org/kb/docs/php/quickstart.html
+[ POSSIBLE BLIND ] https://www.elegantthemes.com/documentation/developers/hooks/divi-template-hooks/
